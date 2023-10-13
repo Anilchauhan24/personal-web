@@ -1,0 +1,29 @@
+.first-content {
+
+    color: #ffffff;
+}
+
+.first-content-one {
+    width: 100%;
+    height: 30rem;
+    background-color: #222222;
+}
+
+
+img {
+    width: 200px;
+    margin-top: 10px;
+    height: 200px;
+    border-radius: 34px;
+    opacity: 0.8;
+    background-color: black;
+
+}
+
+.items {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+    align-items: center;
+    justify-items: center;
+}

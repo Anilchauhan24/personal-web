@@ -1,0 +1,165 @@
+.footer-content {
+
+    width: 100%;
+    height: 18rem;
+    background-color: #311e25;
+}
+
+.social {
+    color: #db9a64;
+}
+
+.social>ul {
+    list-style: none;
+}
+
+.combined-footer {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.text-color {
+    color: #7ac64d;
+    font-weight: lighter;
+
+}
+
+.circle-watch {
+    width: 150px;
+    height: 150px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    display: inline-flexbox;
+    gap: 5px;
+    text-wrap: 2px;
+
+}
+
+#point {
+    font-size: 60px;
+    font-weight: bolder;
+    position: absolute;
+    margin-left: 69px;
+    margin-top: 13px;
+    color: black;
+}
+
+
+#rotation {
+    text-align: center;
+    color: #3715e7;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+#rotation-one {
+    position: relative;
+    right: 8px;
+    color: blue;
+    top: 6px;
+}
+
+#rotation-two {
+    position: relative;
+    color: #3715e7;
+    font-weight: bold;
+    left: 15px;
+    top: 4px;
+}
+
+#rotation-three {
+    position: relative;
+    top: 29px;
+    left: 30px;
+    color: blue;
+}
+
+
+#padding-four {
+    /* position: relative;
+    padding: 131px;
+    top: 13px;
+*/
+
+    position: relative;
+    top: 64px;
+    left: 32px;
+    color: blue;
+}
+
+
+#rotation-five {
+    position: relative;
+    top: 96px;
+    left: 15px;
+    color: blue;
+}
+
+
+#rotation-six {
+    position: relative;
+
+    top: 120px;
+    left: -16px;
+    color: blue;
+}
+
+
+
+#rotation-seven {
+    position: relative;
+    top: 130px;
+    right: 59px;
+    color: blue;
+}
+
+
+#rotation-ten {
+    position: relative;
+    top: 31px;
+    right: 14px;
+    color: blue;
+}
+
+#rotation-nine {
+    position: relative;
+    top: 62px;
+    right: 11px;
+    color: blue;
+}
+
+#rotation-eleven {
+    position: relative;
+    top: 92px;
+    right: -6px;
+    color: blue;
+}
+
+#rotation-twelve {
+    position: relative;
+    top: 121px;
+    left: 34px;
+    color: blue;
+}
+
+.fa-arrow-up {
+    position: relative;
+
+    bottom: 96px;
+    color: rgb(226, 14, 14);
+    margin-left: 70px;
+}
+
+.fa-arrow-right {
+    position: relative;
+    bottom: 85px;
+    color: black;
+    margin-left: 1px;
+}
+
+.fa-arrow-left {
+    position: relative;
+    bottom: 85px;
+    color: rgb(61, 223, 12);
+    margin-left: -41px;
+}
